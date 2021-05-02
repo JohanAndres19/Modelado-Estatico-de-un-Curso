@@ -21,4 +21,4 @@
 
 <br>
 
-![DiagramaDeSecuencia](Imagenes/DiagramasClase.jpg)
+![DiagramaDeSecuencia](Imagenes/Inscripcion_de_materias.jpg)

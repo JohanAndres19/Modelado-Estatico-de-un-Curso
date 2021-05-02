@@ -14,11 +14,11 @@
 
 <br>
 
-![DiagramaDeClases](imagenes/DiagramasClase.jpg)
+![DiagramaDeClases](Imagenes/DiagramasClase.jpg)
 
 
 ## **Diagrama de Secuencias**
 
 <br>
 
-![DiagramaDeSecuencia](imagenes/DiagramasClase.jpg)
+![DiagramaDeSecuencia](Imagenes/DiagramasClase.jpg)

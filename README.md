@@ -10,6 +10,10 @@
 
 + #### Hacer uso de las Herramientas de modelado para representar las diferentes interacciones y objetos que participan en un proceso de inscripcion de materias
 
+## **Herramienta Usada**
+
++ #### La herramienta usada para  hacer el modelado fue StarUml que se encuentra  en https://staruml.io/
+
 ## **Diagrama de Clase**
 
 <br>
